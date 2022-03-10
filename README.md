@@ -7,3 +7,5 @@ https://meyerweb.com/eric/tools/css/reset/
 
 generation text:
 https://www.lipsum.com/
+
+page: https://adriastephanie.github.io/project-html-css-homepage/
